@@ -1,4 +1,3 @@
-```markdown
 # Task Manager Application
 
 The **Task Manager** is a Python-based command-line application designed to help users manage tasks and user registrations efficiently. It provides features for adding tasks, viewing tasks, registering new users, and performing administrative tasks such as deleting users and displaying statistics.
@@ -39,7 +38,6 @@ Before running the application, ensure you have the following:
    ```bash
    git clone https://github.com/your-username/task-manager.git
    cd task-manager
-   ```
 
 2. **Create Required Files**:
    - Create a `user.txt` file to store user credentials. The file should contain at least one admin user in the following format:
